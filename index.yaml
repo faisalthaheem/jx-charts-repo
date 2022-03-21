@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jx-app-test-12:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2022-03-21T23:46:29.334165917Z"
+    description: A Helm chart for Kubernetes
+    digest: 5923032db81e9888f88c0ff79766ab87c62a828ef08cdac95c7499c98ede4862
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: jx-app-test-12
+    urls:
+    - jx-app-test-12-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-03-21T23:46:29.332726818Z"
